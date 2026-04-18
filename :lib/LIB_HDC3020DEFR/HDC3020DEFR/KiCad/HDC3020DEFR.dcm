@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HDC3020DEFR
+D Board Mount Humidity Sensors 0.5% RH digital humidity sensor, 0.19% long-term drift, 400 nA, 4-sec response time, NIST traceable
+K
+F https://www.ti.com/lit/ds/symlink/hdc3020.pdf?ts=1668126926092&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FHDC3020%252Fpart-details%252FPHDC3020DEFT
+$ENDCMP
+#
+#End Doc Library
