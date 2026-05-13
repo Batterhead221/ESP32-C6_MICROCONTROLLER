@@ -1,12 +1,8 @@
-## esp32-c6 lab board
+## esp32-c6_microcontroller
 
 custom esp32-c6 development board with rgb status led, user input, i2c expansion, oled support, and onboard environmental sensing.
 
-![esp32-c6 board v1 bring-up demo](images/esp32_bring-up.jpeg)
-
 *initial board bring-up demo showing oled output, live temp/hum readout, uart programming setup, and rgb led status.*
-
-![esp32_c6 (esp32_microcontroller)](v1.0/hardware/images/repo_img/hero.png)
 
 ## demo features
 
@@ -96,4 +92,5 @@ the board has successfully run a combined demo with:
 * native usb enumeration still needs separate debug / validation
 * programming flow is currently manual through uart header
 
-designed & engineered by brandon shelly
+
+Designed & Engineered by Brandon Shelly
